@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 842b7c360376937459f730a7de32e7b6
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: -8670624748429021439
+    second: _D2_R2:polymsh_extracted1|_D2_R2:Body|Take 001|Base Layer
+  - first:
+      74: 1900853348097969444
+    second: _D2_R2:polymsh_extracted1|_D2_R2:Cylinder|Take 001|Base Layer
+  - first:
+      74: -7996546697519454687
+    second: _D2_R2:polymsh_extracted1|_D2_R2:Head|Take 001|Base Layer
+  - first:
+      74: 1686175249030385320
+    second: _D2_R2:polymsh_extracted1|_D2_R2:Left_Vertical_Tool|Take 001|Base Layer
+  - first:
+      74: -5519415084395387547
+    second: _D2_R2:polymsh_extracted1|_D2_R2:Middle_foot1|Take 001|Base Layer
+  - first:
+      74: -2555444253060339047
+    second: _D2_R2:polymsh_extracted1|_D2_R2:Middle_leg1|Take 001|Base Layer
+  - first:
+      74: -5023389888248367175
+    second: _D2_R2:polymsh_extracted1|_D2_R2:Middle_leg2|Take 001|Base Layer
+  - first:
+      74: -4324907339251834826
+    second: _D2_R2:polymsh_extracted1|_D2_R2:polymsh_extracted1|Take 001|Base Layer
+  - first:
+      74: -3994342590923215779
+    second: _D2_R2:polymsh_extracted1|_D2_R2:polymsh_extracted|Take 001|Base Layer
+  - first:
+      74: 604021409896077219
+    second: _D2_R2:polymsh_extracted1|_D2_R2:Right_Vertical_Too|Take 001|Base Layer
+  - first:
+      74: -4532854646631486479
+    second: _D2_R2:polymsh_extracted1|_D2_R2:Tool_1|Take 001|Base Layer
+  - first:
+      74: 2710292528868800125
+    second: _D2_R2:polymsh_extracted1|_D2_R2:Tool_2|Take 001|Base Layer
+  - first:
+      74: 2004779432928106461
+    second: _D2_R2:polymsh_extracted1|_D2_R2:Tool_3|Take 001|Base Layer
+  - first:
+      74: 7276276736339740872
+    second: _D2_R2:polymsh_extracted1|_D2_R2:Tool_4|Take 001|Base Layer
+  - first:
+      74: 1110942623813875646
+    second: _D2_R2:Right_Vertical_Too|_D2_R2:Body|Take 001|Base Layer
+  - first:
+      74: 6262271849414322502
+    second: _D2_R2:Right_Vertical_Too|_D2_R2:Cylinder|Take 001|Base Layer
+  - first:
+      74: -6023595865295789819
+    second: _D2_R2:Right_Vertical_Too|_D2_R2:Head|Take 001|Base Layer
+  - first:
+      74: -1141612876934968686
+    second: _D2_R2:Right_Vertical_Too|_D2_R2:Left_Vertical_Tool|Take 001|Base Layer
+  - first:
+      74: 3970569896839716949
+    second: _D2_R2:Right_Vertical_Too|_D2_R2:Middle_foot1|Take 001|Base Layer
+  - first:
+      74: 811345277777531141
+    second: _D2_R2:Right_Vertical_Too|_D2_R2:Middle_leg1|Take 001|Base Layer
+  - first:
+      74: -1926951957361556260
+    second: _D2_R2:Right_Vertical_Too|_D2_R2:Middle_leg2|Take 001|Base Layer
+  - first:
+      74: -9073204462063422391
+    second: _D2_R2:Right_Vertical_Too|_D2_R2:polymsh_extracted1|Take 001|Base Layer
+  - first:
+      74: -7966584498014480
+    second: _D2_R2:Right_Vertical_Too|_D2_R2:polymsh_extracted|Take 001|Base Layer
+  - first:
+      74: 4516733510233562863
+    second: _D2_R2:Right_Vertical_Too|_D2_R2:Right_Vertical_Too|Take 001|Base Layer
+  - first:
+      74: 8515951083337121745
+    second: _D2_R2:Right_Vertical_Too|_D2_R2:Tool_1|Take 001|Base Layer
+  - first:
+      74: -7929289125536472362
+    second: _D2_R2:Right_Vertical_Too|_D2_R2:Tool_2|Take 001|Base Layer
+  - first:
+      74: 3189573626734900748
+    second: _D2_R2:Right_Vertical_Too|_D2_R2:Tool_3|Take 001|Base Layer
+  - first:
+      74: -2870717057892094046
+    second: _D2_R2:Right_Vertical_Too|_D2_R2:Tool_4|Take 001|Base Layer
+  - first:
+      74: 627470195715298513
+    second: _D2_R2:polymsh_extracted|_D2_R2:Body|Take 001|Base Layer
+  - first:
+      74: 8897664600935581060
+    second: _D2_R2:polymsh_extracted|_D2_R2:Cylinder|Take 001|Base Layer
+  - first:
+      74: -3308854955890128509
+    second: _D2_R2:polymsh_extracted|_D2_R2:Head|Take 001|Base Layer
+  - first:
+      74: -522909076784980335
+    second: _D2_R2:polymsh_extracted|_D2_R2:Left_Vertical_Tool|Take 001|Base Layer
+  - first:
+      74: -2815558374480928391
+    second: _D2_R2:polymsh_extracted|_D2_R2:Middle_foot1|Take 001|Base Layer
+  - first:
+      74: -3336474849523813517
+    second: _D2_R2:polymsh_extracted|_D2_R2:Middle_leg1|Take 001|Base Layer
+  - first:
+      74: -1325725318226434237
+    second: _D2_R2:polymsh_extracted|_D2_R2:Middle_leg2|Take 001|Base Layer
+  - first:
+      74: 8243383700584466537
+    second: _D2_R2:polymsh_extracted|_D2_R2:polymsh_extracted1|Take 001|Base Layer
+  - first:
+      74: 6143283137447028299
+    second: _D2_R2:polymsh_extracted|_D2_R2:polymsh_extracted|Take 001|Base Layer
+  - first:
+      74: -1031961662658920620
+    second: _D2_R2:polymsh_extracted|_D2_R2:Right_Vertical_Too|Take 001|Base Layer
+  - first:
+      74: 3126274802071674512
+    second: _D2_R2:polymsh_extracted|_D2_R2:Tool_1|Take 001|Base Layer
+  - first:
+      74: 6222606795973937874
+    second: _D2_R2:polymsh_extracted|_D2_R2:Tool_2|Take 001|Base Layer
+  - first:
+      74: 1354574674885457467
+    second: _D2_R2:polymsh_extracted|_D2_R2:Tool_3|Take 001|Base Layer
+  - first:
+      74: 1000331809829557659
+    second: _D2_R2:polymsh_extracted|_D2_R2:Tool_4|Take 001|Base Layer
+  - first:
+      74: -7193537961770142819
+    second: _D2_R2:Left_Vertical_Tool|_D2_R2:Body|Take 001|Base Layer
+  - first:
+      74: 7580336533160923604
+    second: _D2_R2:Left_Vertical_Tool|_D2_R2:Cylinder|Take 001|Base Layer
+  - first:
+      74: -2664758918582707332
+    second: _D2_R2:Left_Vertical_Tool|_D2_R2:Head|Take 001|Base Layer
+  - first:
+      74: 1881501755888782033
+    second: _D2_R2:Left_Vertical_Tool|_D2_R2:Left_Vertical_Tool|Take 001|Base Layer
+  - first:
+      74: -6208700078124820381
+    second: _D2_R2:Left_Vertical_Tool|_D2_R2:Middle_foot1|Take 001|Base Layer
+  - first:
+      74: 3902672755765242628
+    second: _D2_R2:Left_Vertical_Tool|_D2_R2:Middle_leg1|Take 001|Base Layer
+  - first:
+      74: 4244836232882277734
+    second: _D2_R2:Left_Vertical_Tool|_D2_R2:Middle_leg2|Take 001|Base Layer
+  - first:
+      74: -6756611609973236827
+    second: _D2_R2:Left_Vertical_Tool|_D2_R2:polymsh_extracted1|Take 001|Base Layer
+  - first:
+      74: -7522560478513644723
+    second: _D2_R2:Left_Vertical_Tool|_D2_R2:polymsh_extracted|Take 001|Base Layer
+  - first:
+      74: 683539503140223051
+    second: _D2_R2:Left_Vertical_Tool|_D2_R2:Right_Vertical_Too|Take 001|Base Layer
+  - first:
+      74: -6773714362544947225
+    second: _D2_R2:Left_Vertical_Tool|_D2_R2:Tool_1|Take 001|Base Layer
+  - first:
+      74: -6212136070957866409
+    second: _D2_R2:Left_Vertical_Tool|_D2_R2:Tool_2|Take 001|Base Layer
+  - first:
+      74: 2819135875804246016
+    second: _D2_R2:Left_Vertical_Tool|_D2_R2:Tool_3|Take 001|Base Layer
+  - first:
+      74: -9187273354713519106
+    second: _D2_R2:Left_Vertical_Tool|_D2_R2:Tool_4|Take 001|Base Layer
+  - first:
+      74: 1678539177382179874
+    second: _D2_R2:Head|_D2_R2:Body|Take 001|Base Layer
+  - first:
+      74: -7265088220978882459
+    second: _D2_R2:Head|_D2_R2:Cylinder|Take 001|Base Layer
+  - first:
+      74: 6822915476083900307
+    second: _D2_R2:Head|_D2_R2:Head|Take 001|Base Layer
+  - first:
+      74: -3756246443928837773
+    second: _D2_R2:Head|_D2_R2:Left_Vertical_Tool|Take 001|Base Layer
+  - first:
+      74: 1386210993821975583
+    second: _D2_R2:Head|_D2_R2:Middle_foot1|Take 001|Base Layer
+  - first:
+      74: -107085965029533542
+    second: _D2_R2:Head|_D2_R2:Middle_leg1|Take 001|Base Layer
+  - first:
+      74: -1882879733912854651
+    second: _D2_R2:Head|_D2_R2:Middle_leg2|Take 001|Base Layer
+  - first:
+      74: 3764968501178862092
+    second: _D2_R2:Head|_D2_R2:polymsh_extracted1|Take 001|Base Layer
+  - first:
+      74: -95674369620419135
+    second: _D2_R2:Head|_D2_R2:polymsh_extracted|Take 001|Base Layer
+  - first:
+      74: -2014256236639269951
+    second: _D2_R2:Head|_D2_R2:Right_Vertical_Too|Take 001|Base Layer
+  - first:
+      74: 8125721873246942192
+    second: _D2_R2:Head|_D2_R2:Tool_1|Take 001|Base Layer
+  - first:
+      74: -1949914865014007706
+    second: _D2_R2:Head|_D2_R2:Tool_2|Take 001|Base Layer
+  - first:
+      74: -1451730657275877070
+    second: _D2_R2:Head|_D2_R2:Tool_3|Take 001|Base Layer
+  - first:
+      74: -417453796386816227
+    second: _D2_R2:Head|_D2_R2:Tool_4|Take 001|Base Layer
+  - first:
+      74: 4677346008924832257
+    second: _D2_R2:Middle_foot1|_D2_R2:Body|Take 001|Base Layer
+  - first:
+      74: 4128293652370103120
+    second: _D2_R2:Middle_foot1|_D2_R2:Cylinder|Take 001|Base Layer
+  - first:
+      74: -7734476078059577896
+    second: _D2_R2:Middle_foot1|_D2_R2:Head|Take 001|Base Layer
+  - first:
+      74: -5746590588756977647
+    second: _D2_R2:Middle_foot1|_D2_R2:Left_Vertical_Tool|Take 001|Base Layer
+  - first:
+      74: -5918240487022814004
+    second: _D2_R2:Middle_foot1|_D2_R2:Middle_foot1|Take 001|Base Layer
+  - first:
+      74: 3353156259014501453
+    second: _D2_R2:Middle_foot1|_D2_R2:Middle_leg1|Take 001|Base Layer
+  - first:
+      74: -3419608982467864110
+    second: _D2_R2:Middle_foot1|_D2_R2:Middle_leg2|Take 001|Base Layer
+  - first:
+      74: -8611704225961641086
+    second: _D2_R2:Middle_foot1|_D2_R2:polymsh_extracted1|Take 001|Base Layer
+  - first:
+      74: 2439198802021295820
+    second: _D2_R2:Middle_foot1|_D2_R2:polymsh_extracted|Take 001|Base Layer
+  - first:
+      74: 2823457251486821844
+    second: _D2_R2:Middle_foot1|_D2_R2:Right_Vertical_Too|Take 001|Base Layer
+  - first:
+      74: 3279951424905076675
+    second: _D2_R2:Middle_foot1|_D2_R2:Tool_1|Take 001|Base Layer
+  - first:
+      74: -3980086901940437326
+    second: _D2_R2:Middle_foot1|_D2_R2:Tool_2|Take 001|Base Layer
+  - first:
+      74: 8878300463631530495
+    second: _D2_R2:Middle_foot1|_D2_R2:Tool_3|Take 001|Base Layer
+  - first:
+      74: -8576808486481900105
+    second: _D2_R2:Middle_foot1|_D2_R2:Tool_4|Take 001|Base Layer
+  - first:
+      74: 534371387190931210
+    second: _D2_R2:Middle_leg2|_D2_R2:Body|Take 001|Base Layer
+  - first:
+      74: -8802736436819670924
+    second: _D2_R2:Middle_leg2|_D2_R2:Cylinder|Take 001|Base Layer
+  - first:
+      74: 6141874503860124670
+    second: _D2_R2:Middle_leg2|_D2_R2:Head|Take 001|Base Layer
+  - first:
+      74: 1279171677644914946
+    second: _D2_R2:Middle_leg2|_D2_R2:Left_Vertical_Tool|Take 001|Base Layer
+  - first:
+      74: -4032238618966318595
+    second: _D2_R2:Middle_leg2|_D2_R2:Middle_foot1|Take 001|Base Layer
+  - first:
+      74: 5700209879665175224
+    second: _D2_R2:Middle_leg2|_D2_R2:Middle_leg1|Take 001|Base Layer
+  - first:
+      74: 3192152727994134207
+    second: _D2_R2:Middle_leg2|_D2_R2:Middle_leg2|Take 001|Base Layer
+  - first:
+      74: 1496223726797808906
+    second: _D2_R2:Middle_leg2|_D2_R2:polymsh_extracted1|Take 001|Base Layer
+  - first:
+      74: -9190061200106860411
+    second: _D2_R2:Middle_leg2|_D2_R2:polymsh_extracted|Take 001|Base Layer
+  - first:
+      74: -678381251586386714
+    second: _D2_R2:Middle_leg2|_D2_R2:Right_Vertical_Too|Take 001|Base Layer
+  - first:
+      74: 1691201015470362785
+    second: _D2_R2:Middle_leg2|_D2_R2:Tool_1|Take 001|Base Layer
+  - first:
+      74: 1161836008556473790
+    second: _D2_R2:Middle_leg2|_D2_R2:Tool_2|Take 001|Base Layer
+  - first:
+      74: -92234819147445150
+    second: _D2_R2:Middle_leg2|_D2_R2:Tool_3|Take 001|Base Layer
+  - first:
+      74: -8915222168783369668
+    second: _D2_R2:Middle_leg2|_D2_R2:Tool_4|Take 001|Base Layer
+  - first:
+      74: 1606246505408148498
+    second: _D2_R2:Middle_leg1|_D2_R2:Body|Take 001|Base Layer
+  - first:
+      74: -3607258518426558512
+    second: _D2_R2:Middle_leg1|_D2_R2:Cylinder|Take 001|Base Layer
+  - first:
+      74: -8825973182737408360
+    second: _D2_R2:Middle_leg1|_D2_R2:Head|Take 001|Base Layer
+  - first:
+      74: 1950574031921959811
+    second: _D2_R2:Middle_leg1|_D2_R2:Left_Vertical_Tool|Take 001|Base Layer
+  - first:
+      74: 6097520361320342951
+    second: _D2_R2:Middle_leg1|_D2_R2:Middle_foot1|Take 001|Base Layer
+  - first:
+      74: -888210659187804597
+    second: _D2_R2:Middle_leg1|_D2_R2:Middle_leg1|Take 001|Base Layer
+  - first:
+      74: -1027395723923357884
+    second: _D2_R2:Middle_leg1|_D2_R2:Middle_leg2|Take 001|Base Layer
+  - first:
+      74: -6796027012469064871
+    second: _D2_R2:Middle_leg1|_D2_R2:polymsh_extracted1|Take 001|Base Layer
+  - first:
+      74: -35080891116420489
+    second: _D2_R2:Middle_leg1|_D2_R2:polymsh_extracted|Take 001|Base Layer
+  - first:
+      74: 6819720914622989019
+    second: _D2_R2:Middle_leg1|_D2_R2:Right_Vertical_Too|Take 001|Base Layer
+  - first:
+      74: -5823056448545916078
+    second: _D2_R2:Middle_leg1|_D2_R2:Tool_1|Take 001|Base Layer
+  - first:
+      74: -4094201367865217128
+    second: _D2_R2:Middle_leg1|_D2_R2:Tool_2|Take 001|Base Layer
+  - first:
+      74: 8547060510373534588
+    second: _D2_R2:Middle_leg1|_D2_R2:Tool_3|Take 001|Base Layer
+  - first:
+      74: 7839618634070920647
+    second: _D2_R2:Middle_leg1|_D2_R2:Tool_4|Take 001|Base Layer
+  - first:
+      74: -7942661031740584589
+    second: _D2_R2:Tool_1|_D2_R2:Body|Take 001|Base Layer
+  - first:
+      74: -6709964359877422090
+    second: _D2_R2:Tool_1|_D2_R2:Cylinder|Take 001|Base Layer
+  - first:
+      74: 3336390450859892094
+    second: _D2_R2:Tool_1|_D2_R2:Head|Take 001|Base Layer
+  - first:
+      74: -5857590720959953142
+    second: _D2_R2:Tool_1|_D2_R2:Left_Vertical_Tool|Take 001|Base Layer
+  - first:
+      74: -2196871335989231461
+    second: _D2_R2:Tool_1|_D2_R2:Middle_foot1|Take 001|Base Layer
+  - first:
+      74: -5136899205306893837
+    second: _D2_R2:Tool_1|_D2_R2:Middle_leg1|Take 001|Base Layer
+  - first:
+      74: 6127530108610146987
+    second: _D2_R2:Tool_1|_D2_R2:Middle_leg2|Take 001|Base Layer
+  - first:
+      74: -9149270320948854974
+    second: _D2_R2:Tool_1|_D2_R2:polymsh_extracted1|Take 001|Base Layer
+  - first:
+      74: -4371131139076144094
+    second: _D2_R2:Tool_1|_D2_R2:polymsh_extracted|Take 001|Base Layer
+  - first:
+      74: 8315668361590224373
+    second: _D2_R2:Tool_1|_D2_R2:Right_Vertical_Too|Take 001|Base Layer
+  - first:
+      74: 8446593468341299567
+    second: _D2_R2:Tool_1|_D2_R2:Tool_1|Take 001|Base Layer
+  - first:
+      74: -2347844877654145867
+    second: _D2_R2:Tool_1|_D2_R2:Tool_2|Take 001|Base Layer
+  - first:
+      74: 6770555232664013834
+    second: _D2_R2:Tool_1|_D2_R2:Tool_3|Take 001|Base Layer
+  - first:
+      74: 6506365551538914235
+    second: _D2_R2:Tool_1|_D2_R2:Tool_4|Take 001|Base Layer
+  - first:
+      74: -5419132806893489229
+    second: _D2_R2:Tool_2|_D2_R2:Body|Take 001|Base Layer
+  - first:
+      74: -7365462589000725618
+    second: _D2_R2:Tool_2|_D2_R2:Cylinder|Take 001|Base Layer
+  - first:
+      74: -8271224783916352057
+    second: _D2_R2:Tool_2|_D2_R2:Head|Take 001|Base Layer
+  - first:
+      74: -3501757434847479228
+    second: _D2_R2:Tool_2|_D2_R2:Left_Vertical_Tool|Take 001|Base Layer
+  - first:
+      74: -4295949890172306961
+    second: _D2_R2:Tool_2|_D2_R2:Middle_foot1|Take 001|Base Layer
+  - first:
+      74: -826385513341017082
+    second: _D2_R2:Tool_2|_D2_R2:Middle_leg1|Take 001|Base Layer
+  - first:
+      74: -78558999304102629
+    second: _D2_R2:Tool_2|_D2_R2:Middle_leg2|Take 001|Base Layer
+  - first:
+      74: 7011660380050147047
+    second: _D2_R2:Tool_2|_D2_R2:polymsh_extracted1|Take 001|Base Layer
+  - first:
+      74: -3346429324732041240
+    second: _D2_R2:Tool_2|_D2_R2:polymsh_extracted|Take 001|Base Layer
+  - first:
+      74: -4837092515066417609
+    second: _D2_R2:Tool_2|_D2_R2:Right_Vertical_Too|Take 001|Base Layer
+  - first:
+      74: 6458409395882825716
+    second: _D2_R2:Tool_2|_D2_R2:Tool_1|Take 001|Base Layer
+  - first:
+      74: 1562981520692905880
+    second: _D2_R2:Tool_2|_D2_R2:Tool_2|Take 001|Base Layer
+  - first:
+      74: 1610903640099044774
+    second: _D2_R2:Tool_2|_D2_R2:Tool_3|Take 001|Base Layer
+  - first:
+      74: 4979543363720337754
+    second: _D2_R2:Tool_2|_D2_R2:Tool_4|Take 001|Base Layer
+  - first:
+      74: 5918091461538590932
+    second: _D2_R2:Tool_3|_D2_R2:Body|Take 001|Base Layer
+  - first:
+      74: 3007116576602310897
+    second: _D2_R2:Tool_3|_D2_R2:Cylinder|Take 001|Base Layer
+  - first:
+      74: -4899604808541547341
+    second: _D2_R2:Tool_3|_D2_R2:Head|Take 001|Base Layer
+  - first:
+      74: -568655534831565013
+    second: _D2_R2:Tool_3|_D2_R2:Left_Vertical_Tool|Take 001|Base Layer
+  - first:
+      74: 2079918096254691375
+    second: _D2_R2:Tool_3|_D2_R2:Middle_foot1|Take 001|Base Layer
+  - first:
+      74: -6551499783093048022
+    second: _D2_R2:Tool_3|_D2_R2:Middle_leg1|Take 001|Base Layer
+  - first:
+      74: -7257540121335234770
+    second: _D2_R2:Tool_3|_D2_R2:Middle_leg2|Take 001|Base Layer
+  - first:
+      74: 7288965753981527397
+    second: _D2_R2:Tool_3|_D2_R2:polymsh_extracted1|Take 001|Base Layer
+  - first:
+      74: 6076628606354127859
+    second: _D2_R2:Tool_3|_D2_R2:polymsh_extracted|Take 001|Base Layer
+  - first:
+      74: -612977886294259322
+    second: _D2_R2:Tool_3|_D2_R2:Right_Vertical_Too|Take 001|Base Layer
+  - first:
+      74: -4818840919657686799
+    second: _D2_R2:Tool_3|_D2_R2:Tool_1|Take 001|Base Layer
+  - first:
+      74: -2089059165610740888
+    second: _D2_R2:Tool_3|_D2_R2:Tool_2|Take 001|Base Layer
+  - first:
+      74: -53391457167040919
+    second: _D2_R2:Tool_3|_D2_R2:Tool_3|Take 001|Base Layer
+  - first:
+      74: 3680866809832081677
+    second: _D2_R2:Tool_3|_D2_R2:Tool_4|Take 001|Base Layer
+  - first:
+      74: 3669660079942623173
+    second: _D2_R2:Tool_4|_D2_R2:Body|Take 001|Base Layer
+  - first:
+      74: 4221692502432619759
+    second: _D2_R2:Tool_4|_D2_R2:Cylinder|Take 001|Base Layer
+  - first:
+      74: 1580524019081559579
+    second: _D2_R2:Tool_4|_D2_R2:Head|Take 001|Base Layer
+  - first:
+      74: -3884031816004296813
+    second: _D2_R2:Tool_4|_D2_R2:Left_Vertical_Tool|Take 001|Base Layer
+  - first:
+      74: 5589290052140373083
+    second: _D2_R2:Tool_4|_D2_R2:Middle_foot1|Take 001|Base Layer
+  - first:
+      74: -270925401322786748
+    second: _D2_R2:Tool_4|_D2_R2:Middle_leg1|Take 001|Base Layer
+  - first:
+      74: -6843309421303187991
+    second: _D2_R2:Tool_4|_D2_R2:Middle_leg2|Take 001|Base Layer
+  - first:
+      74: 1341851673644155400
+    second: _D2_R2:Tool_4|_D2_R2:polymsh_extracted1|Take 001|Base Layer
+  - first:
+      74: 1596570133706376538
+    second: _D2_R2:Tool_4|_D2_R2:polymsh_extracted|Take 001|Base Layer
+  - first:
+      74: -3029362916518878454
+    second: _D2_R2:Tool_4|_D2_R2:Right_Vertical_Too|Take 001|Base Layer
+  - first:
+      74: 967902181110257660
+    second: _D2_R2:Tool_4|_D2_R2:Tool_1|Take 001|Base Layer
+  - first:
+      74: -6157508172891066499
+    second: _D2_R2:Tool_4|_D2_R2:Tool_2|Take 001|Base Layer
+  - first:
+      74: 761540505951392362
+    second: _D2_R2:Tool_4|_D2_R2:Tool_3|Take 001|Base Layer
+  - first:
+      74: -7591002101887538947
+    second: _D2_R2:Tool_4|_D2_R2:Tool_4|Take 001|Base Layer
+  - first:
+      74: -4014509945009885024
+    second: _D2_R2:Cylinder|_D2_R2:Body|Take 001|Base Layer
+  - first:
+      74: -1581546464334467223
+    second: _D2_R2:Cylinder|_D2_R2:Cylinder|Take 001|Base Layer
+  - first:
+      74: -225394118341141950
+    second: _D2_R2:Cylinder|_D2_R2:Head|Take 001|Base Layer
+  - first:
+      74: 1773363744457469840
+    second: _D2_R2:Cylinder|_D2_R2:Left_Vertical_Tool|Take 001|Base Layer
+  - first:
+      74: 7502992413505706149
+    second: _D2_R2:Cylinder|_D2_R2:Middle_foot1|Take 001|Base Layer
+  - first:
+      74: 2672310993448516741
+    second: _D2_R2:Cylinder|_D2_R2:Middle_leg1|Take 001|Base Layer
+  - first:
+      74: -8220566076457869564
+    second: _D2_R2:Cylinder|_D2_R2:Middle_leg2|Take 001|Base Layer
+  - first:
+      74: 6503484888378117031
+    second: _D2_R2:Cylinder|_D2_R2:polymsh_extracted1|Take 001|Base Layer
+  - first:
+      74: 5426977626907531534
+    second: _D2_R2:Cylinder|_D2_R2:polymsh_extracted|Take 001|Base Layer
+  - first:
+      74: -4894689290231234455
+    second: _D2_R2:Cylinder|_D2_R2:Right_Vertical_Too|Take 001|Base Layer
+  - first:
+      74: 6529602576994814306
+    second: _D2_R2:Cylinder|_D2_R2:Tool_1|Take 001|Base Layer
+  - first:
+      74: -2223483764633642586
+    second: _D2_R2:Cylinder|_D2_R2:Tool_2|Take 001|Base Layer
+  - first:
+      74: -1706115607560346008
+    second: _D2_R2:Cylinder|_D2_R2:Tool_3|Take 001|Base Layer
+  - first:
+      74: -2110555668428015512
+    second: _D2_R2:Cylinder|_D2_R2:Tool_4|Take 001|Base Layer
+  - first:
+      74: -5409821548755789105
+    second: _D2_R2:Body|_D2_R2:Body|Take 001|Base Layer
+  - first:
+      74: 3343838778968279817
+    second: _D2_R2:Body|_D2_R2:Cylinder|Take 001|Base Layer
+  - first:
+      74: 5818355186638457091
+    second: _D2_R2:Body|_D2_R2:Head|Take 001|Base Layer
+  - first:
+      74: 7610805157574674921
+    second: _D2_R2:Body|_D2_R2:Left_Vertical_Tool|Take 001|Base Layer
+  - first:
+      74: -2588496376253844380
+    second: _D2_R2:Body|_D2_R2:Middle_foot1|Take 001|Base Layer
+  - first:
+      74: 1308506743066491782
+    second: _D2_R2:Body|_D2_R2:Middle_leg1|Take 001|Base Layer
+  - first:
+      74: 4377430281502459731
+    second: _D2_R2:Body|_D2_R2:Middle_leg2|Take 001|Base Layer
+  - first:
+      74: -3928325209684961915
+    second: _D2_R2:Body|_D2_R2:polymsh_extracted1|Take 001|Base Layer
+  - first:
+      74: -2383176306412456970
+    second: _D2_R2:Body|_D2_R2:polymsh_extracted|Take 001|Base Layer
+  - first:
+      74: 3939069217442082696
+    second: _D2_R2:Body|_D2_R2:Right_Vertical_Too|Take 001|Base Layer
+  - first:
+      74: 5555792520164687099
+    second: _D2_R2:Body|_D2_R2:Tool_1|Take 001|Base Layer
+  - first:
+      74: -6683225270228440558
+    second: _D2_R2:Body|_D2_R2:Tool_2|Take 001|Base Layer
+  - first:
+      74: -5524513870076219341
+    second: _D2_R2:Body|_D2_R2:Tool_3|Take 001|Base Layer
+  - first:
+      74: 346394677192081865
+    second: _D2_R2:Body|_D2_R2:Tool_4|Take 001|Base Layer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Lower_ToolMat
+    second: {fileID: 2100000, guid: 4d726405352a67d409c053de09840aab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Upper_ToolMat
+    second: {fileID: 2100000, guid: 36452c7c704a38d4f9e2f86726d7f8aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FM.SLG.10.3-8-096_1
+    second: {fileID: 2100000, guid: d8682aa276cee2e47af3852b3bd7d3b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Front_Projector1Mat
+    second: {fileID: 2100000, guid: e6d1cdbb15e4309469240aa3e428202d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left_FootMat
+    second: {fileID: 2100000, guid: 07c0ceafc1762864aa37a08430bf85fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left_Lower_LegMat
+    second: {fileID: 2100000, guid: f36e497441eed204aaa3af1c77d397e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left_Upper_LegMat
+    second: {fileID: 2100000, guid: 5696ff1f6f1516e439aa6bc459f29c8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left_Vertical_DoorMat
+    second: {fileID: 2100000, guid: 9a3ef43d3e0e0fa4390ead389897d794, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Left_Vertical_ToolMat
+    second: {fileID: 2100000, guid: 15eba9f70266d8b44990ba16707efac4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: e88bb420af086224ab96a6383211db93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 1801aee150b4f5846a4264bfb8567fed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material7
+    second: {fileID: 2100000, guid: 0fbf1a85250c665418272b74b5866735, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material8
+    second: {fileID: 2100000, guid: 7c182b49c56673840a6f8b27aa9bc450, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material9
+    second: {fileID: 2100000, guid: 6a264229e63f2854f9015161050a9a00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Middle_FootMat
+    second: {fileID: 2100000, guid: 3fc871efb1c572743b24c5218b083f32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Middle_LegMat
+    second: {fileID: 2100000, guid: d1d83bee8356b6f4badf705c41d319a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_FootMat
+    second: {fileID: 2100000, guid: 64a80399539564445bb4af73547a11a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_Lower_LegMat
+    second: {fileID: 2100000, guid: b31c3cb8b81ce714a98d6c5a06b08e87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_Upper_LegMat
+    second: {fileID: 2100000, guid: ccdae37610e383740b030aa2f37bbcba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_Vertical_DoorMat
+    second: {fileID: 2100000, guid: d962f6c4887946d48bd13e6070643fd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Right_Vertical_TooMat
+    second: {fileID: 2100000, guid: 7f38524967d60a144b53b8f2b358d73f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body1Mat
+    second: {fileID: 2100000, guid: 1d0fdfea3fb0ec5458781ff231f20944, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: polymshMat
+    second: {fileID: 2100000, guid: 6ff3a18ec5c75124bbb6d35069254c86, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
