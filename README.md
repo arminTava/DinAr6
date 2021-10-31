@@ -1,4 +1,4 @@
-# DinAr6
+# DIN AR 6
 Exhibition in Augmented Reality
 
 ![bild1_Final - Kopie](https://user-images.githubusercontent.com/54715301/139588138-742514c1-8091-4655-87d1-0e526c572059.png)
